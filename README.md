@@ -1,3 +1,5 @@
+Note: The project files are stored in another repositary, because it is too large.
+This README file is placed here for reference only.
 
 ***********************************************************************************************************
 Start the simulator by running each command in its own terminal.
